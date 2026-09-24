@@ -1,12 +1,12 @@
-# learning — теми в моєму темпі
+# learning — topics at my own pace
 
-На відміну від `uni/`, тут порядок мій. Тема закривається тоді, коли я можу пояснити
-її без підглядання, а не коли здав роботу.
+Unlike `uni/`, the order here is mine. A topic counts as closed when I can explain it
+without looking anything up, not when the work is handed in.
 
-**Статуси:**
+**Statuses:**
 ![done](https://img.shields.io/badge/done-512BD4?style=flat-square)
 ![in progress](https://img.shields.io/badge/in_progress-8B5CF6?style=flat-square)
 ![planned](https://img.shields.io/badge/planned-3A3350?style=flat-square)
 
-| Тема | Статус | Що розібрав |
+| Topic | Status | What I worked through |
 |---|---|---|
