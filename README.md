@@ -12,46 +12,47 @@
 
 ---
 
-# csharp-learning — код, який я пишу вчачись C#
+# csharp-learning — the code I write while learning C#
 
-Дві осі, навмисно різні. `uni/` йде хронологічно — порядок задає викладач, я його не обираю.
-`learning/` іде тематично, у моєму темпі. Змішувати їх в одну нумерацію означало б підганяти
-власний темп під чужий розклад, тому вони лежать окремо і не перетинаються.
+Two axes, deliberately different. `uni/` runs chronologically — the order is set by the
+lecturer, not by me. `learning/` runs thematically, at my own pace. Merging them into a
+single numbering would mean bending my own pace to somebody else's timetable, so they sit
+apart and never overlap.
 
 ---
 
-## 🎓 Лаби
+## 🎓 Labs
 
-| № | Тема | Що відпрацьовано |
+| № | Topic | What it practises |
 |---|---|---|
-| 01 | Лінійні алгоритми, розгалуження | if/else, switch expression, парсинг вводу |
+| 01 | Linear algorithms, branching | if/else, switch expression, parsing input |
 
 ---
 
-## 🗂 Структура
+## 🗂 Structure
 
 ```
 csharp-learning/
-├── assets/              — банер репо
+├── assets/              — repository banner
 ├── uni/
 │   └── labs/
-│       └── lab01/       — одна лаба = одна папка
-│           └── task01/  — одне завдання = одна папка
+│       └── lab01/       — one lab = one folder
+│           └── task01/  — one task = one folder
 └── learning/
-    ├── 01-basics/       — типи, вирази, керування потоком
-    ├── 02-oop/          — класи, інтерфейси, наслідування
+    ├── 01-basics/       — types, expressions, control flow
+    ├── 02-oop/          — classes, interfaces, inheritance
     └── 03-collections/  — List, Dictionary, LINQ
 ```
 
-Нумерація папок у `learning/` — двозначна з дефісом, щоб сортування по імені збігалося
-з порядком проходження і не ламалося на десятій темі.
+Folder numbering in `learning/` is two digits with a hyphen, so that sorting by name matches
+the order I work through them and doesn't break at the tenth topic.
 
 ---
 
-## 🛠 Стек
+## 🛠 Stack
 
 | | |
 |---|---|
-| Рантайм | .NET 10.0 |
+| Runtime | .NET 10.0 |
 | IDE | JetBrains Rider |
-| ОС | macOS |
+| OS | macOS |
