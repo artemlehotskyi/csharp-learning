@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="C# Learning" width="100%">
+<img src="assets/banner.svg?v=2" alt="C# Learning" width="100%">
 
 ![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logoColor=white)
