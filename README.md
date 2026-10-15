@@ -26,6 +26,8 @@ apart and never overlap.
 | № | Topic | What it practises |
 |---|---|---|
 | 01 | Linear algorithms, branching | if/else, switch expression, parsing input |
+| 02 | Branching and loops | for and while, integer arithmetic, divisibility rules |
+| 03 | Arrays and methods | int[] and [,] matrices, extracting logic into static methods |
 
 ---
 
@@ -36,8 +38,10 @@ csharp-learning/
 ├── assets/              — repository banner
 ├── uni/
 │   └── labs/
-│       └── lab01/       — one lab = one folder
-│           └── task01/  — one task = one folder
+│       ├── lab01/       — one lab = one folder
+│       │   └── task01/  — one task = one standalone project
+│       ├── lab02/
+│       └── lab03/
 └── learning/
     ├── 01-basics/       — types, expressions, control flow
     ├── 02-oop/          — classes, interfaces, inheritance
