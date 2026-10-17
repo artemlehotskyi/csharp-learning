@@ -28,7 +28,7 @@ apart and never overlap.
 | 01 | Linear algorithms, branching | if/else, switch expression, parsing input | ✅ 8 / 8 |
 | 02 | Branching and loops | for and while, integer arithmetic, divisibility rules | ✅ 12 / 12 |
 | 03 | Arrays and methods | int[] and [,] matrices, extracting logic into static methods | ✅ 10 / 10 |
-| 04 | Classes and objects | classes, constructors, auto-properties, const members | 5 / 6 |
+| 04 | Classes and objects | classes, constructor overloads, read-only properties, const members | ✅ 6 / 6 |
 
 ---
 
@@ -43,7 +43,7 @@ csharp-learning/
 │       │   └── task01/  — one task = one standalone project
 │       ├── lab02/
 │       ├── lab03/
-│       └── lab04/       — in progress
+│       └── lab04/
 └── learning/
     ├── 01-basics/       — types, expressions, control flow
     ├── 02-oop/          — classes, interfaces, inheritance
