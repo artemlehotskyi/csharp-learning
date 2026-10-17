@@ -25,6 +25,6 @@ class Car
 
     public string GetInfo()
     {
-        return $"{BrandName} {Model} {Color} {Price}";
+        return $"{BrandName} {Model} {Color} {Price.ToString(CultureInfo.InvariantCulture)}";
     }
 }
