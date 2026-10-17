@@ -1,8 +1,9 @@
 using System.Globalization;
+CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
 
-string model = Console.ReadLine();
-string color = Console.ReadLine();
-double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+string model = Console.ReadLine()!;
+string color = Console.ReadLine()!;
+double price = double.Parse(Console.ReadLine()!);
 
 Car car = new Car(model, color, price);
 Console.WriteLine(car.GetInfo());
