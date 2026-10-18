@@ -32,6 +32,17 @@ apart and never overlap.
 
 ---
 
+## 🧩 Projects
+
+Bigger programs that grow past a single task live in their own repositories, so their
+history isn't mixed in with the labs.
+
+| Project | What it practises | Repo | Status |
+|---|---|---|---|
+| Tetris (console) | classes working together, game loop, later inheritance and polymorphism | separate repo → [tetris](https://github.com/artemlehotskyi/tetris) | 🔨 in progress |
+
+---
+
 ## 🗂 Structure
 
 ```
